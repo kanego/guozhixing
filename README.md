@@ -1,0 +1,4 @@
+guozhixing
+==========
+
+my blog 
